@@ -1,0 +1,3 @@
+Error[1027] usb_descriptors.c 55 : unable to locate 'usb_msd.h'
+Error[1027] usb_descriptors.c 56 : unable to locate 'usb_ch9.h'
+Error[1099] usb_descriptors.c 105 : "Descriptor Error: Part not supported"

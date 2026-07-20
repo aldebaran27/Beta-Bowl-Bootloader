@@ -1,0 +1,2 @@
+Error[1027] usb_scsi_inq.c 54 : unable to locate 'usb_scsi.h'
+Error[1099] usb_scsi_inq.c 90 : "SCSI Inquiry Error: Part not supported"

@@ -1,0 +1,5 @@
+Error[1027] usb_app.c 45 : unable to locate 'stdbool.h'
+Error[1027] usb_app.c 46 : unable to locate 'usb.h'
+Error[1027] ./usb_app.h 47 : unable to locate 'stdbool.h'
+Error[1027] ./usb_app.h 48 : unable to locate 'stdint.h'
+Error[1027] usb_app.c 48 : unable to locate 'usb_msd.h'

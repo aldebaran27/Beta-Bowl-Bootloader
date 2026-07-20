@@ -1,0 +1,8 @@
+Error[1027] bootloader.c 54 : unable to locate 'xc.h'
+Error[1027] bootloader.c 55 : unable to locate 'stdint.h'
+Error[1027] bootloader.c 56 : unable to locate 'stdbool.h'
+Error[1027] bootloader.c 57 : unable to locate 'usb.h'
+Error[1027] ./bootloader.h 495 : unable to locate 'stdint.h'
+Error[1027] ./bootloader.h 496 : unable to locate 'usb_msd.h'
+Error[1027] ./flash.h 44 : unable to locate 'stdint.h'
+Error[1027] bootloader.c 61 : unable to locate 'eeprom.h'
